@@ -1,0 +1,48 @@
+body{
+    background-color: skyblue;
+}
+img{
+    width: 15%
+}
+h1{
+    background-color: gold;
+    text-align: center;
+    color: green;
+}
+marquee{
+    background-color: red;
+    color: white;
+    padding: 5px;
+}
+form{
+    width:500px;
+    background-color: orangered;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 10px;
+}
+h3{
+    background-color: skyblue;
+    color: black;
+    text-align: center;
+    /* height: 30px; */
+    padding: 10px 0;
+}
+input{
+    width:100%;
+    margin-bottom: 7px;
+    height: 30px;
+}
+button{
+    width: 100%;
+    background: skyblue;
+    color:black;
+    font-weight: bold;
+    font-size: 90%;
+    padding: 7px 0;
+}
+div{
+    color: black;
+    background-color: yellow;
+    padding: 5px;
+}

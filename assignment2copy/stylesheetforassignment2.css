@@ -1,0 +1,21 @@
+body{
+    background-color: skyblue;
+}
+img{
+    width: 15%
+}
+h1{
+    background-color: gold;
+    text-align: center;
+    color: green;
+}
+marquee{
+    background-color: red;
+    color: white;
+    padding: 5px;
+}
+div{
+    color: black;
+    background-color: yellow;
+    padding: 5px;
+}
